@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm a Ph.D. in Civil Engineering, area of concentration in water resources. I obtained my Ph.D. in Civil Engineering from the Department Civil Engineering at Auburn University in 2021. My research was focused in the numerical modeling of stormwater systems. I'm also hold a bachelor’s degree in Sanitary and Environmental Engineering and a master’s degree in Environmental Engineering, both degrees obtained at the University of Santa Maria, Brazil. During my academic training, I'd to develop many scripts and software to acomplish my goals. Due to that, I acquired a strong passion for coding and opensource initiative. 
 
